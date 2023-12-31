@@ -1,0 +1,14 @@
+Summary Table Name: sales_by_sales_person_summary
+Base Table/Query Rows: 380,164 rows
+Summary Table Rows: 1600 rows
+Reduction Factor: 380,164 / 1600 = 237.6:1
+
+Summary Table Name: sales_by_status_summary
+Base Table/Query Rows: 200,000 rows
+Summary Table Rows: 64 rows
+Reduction Factor: 200,000 / 64 = 3125:1
+
+Summary Table Name: sales_by_user_summary
+Base Table/Query Rows: 380,164 rows
+Summary Table Rows: 1040 rows
+Reduction Factor: 380,164 / 1040 = 365.5:1
